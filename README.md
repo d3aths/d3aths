@@ -2,6 +2,7 @@
 
 # <img src="https://github.com/d3aths/portfolio-web/blob/master/assets/online-now.gif"> ℭ𝔢𝔩𝔢𝔰𝔱𝔢 <img src="https://github.com/d3aths/portfolio-web/blob/master/assets/candle.gif" width="25" height="40">
 
+- [d3aths.github.io](d3aths.github.io)
 - IT Grad looking to get into cybersec  
 - Currently learning pentesting at HackTheBox
 
