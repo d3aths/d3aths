@@ -1,4 +1,4 @@
-## Hi there 👋
+![doom](https://github.com/GH-DOOM/DOOM64/blob/master/assets/banner_on_graph.png)
 
 <!--
 **d3aths/d3aths** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
