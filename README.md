@@ -7,8 +7,7 @@
 
 
 
-![](https://github.com/d3aths/portfolio-web/blob/master/assets/ieievil.gif)  
-![](https://github.com/d3aths/portfolio-web/blob/master/assets/ps2.gif)
+![](https://github.com/d3aths/portfolio-web/blob/master/assets/ieievil.gif) ![](https://github.com/d3aths/portfolio-web/blob/master/assets/ps2.gif)
 
 
 ![](https://github.com/d3aths/portfolio-web/blob/master/assets/blackmagic.gif) ![](https://github.com/d3aths/portfolio-web/blob/master/assets/freeyourmind.gif) ![](https://github.com/d3aths/portfolio-web/blob/master/assets/moonhug.gif)
